@@ -12,6 +12,10 @@ description: >
 
 theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 minima:
   social_links:
       - { platform: github, user_url: "https://github.com/KaharErbol" }
@@ -21,6 +25,4 @@ minima:
 
 
 
-  plugins:
-    - jekyll-feed
-    - jekyll-seo-tag
+
