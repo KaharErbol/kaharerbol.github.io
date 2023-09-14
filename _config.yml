@@ -1,6 +1,24 @@
 title: Kahar Erbol
-logo: /assets/img/avatar.jpg
-# description
+# logo: /assets/img/avatar.jpg
 
-show-downloads: true
+author:
+  name: Kahar Erbol
+  email: kaharerbol@gmail.com
+
+description: >
+  I'm proficient in Python, JavaScript, HTML/CSS, Java, C#.
+  I use Django, React, Fast API, PostgreSQL, MongoDB, Docker.
+  I built projects using RabbitMQ, WebSocket.
+
 theme: minima
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+social_links:
+    - { platform: github,         user_url: "https://github.com/KaharErbol" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kahar-erbol-85029a92/" }
+    - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+  #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
