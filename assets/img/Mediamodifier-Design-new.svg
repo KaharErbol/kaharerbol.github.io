@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="96" height="96" viewBox="23.43 23.43 96 96" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 48 48)" id="f5d34340-5631-4189-b9a5-f8ad5ac27e5e"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-48" y="-48" rx="0" ry="0" width="96" height="96" />
+</g>
+<g transform="matrix(Infinity NaN NaN Infinity 0 0)" id="15f344ca-01d4-420a-ab2d-86d24d3ddc8c"  >
+</g>
+<g transform="matrix(0.15 0 0 0.15 94.46 92.12)" id="86cacd83-605a-477b-9b7a-feec45a08e29"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(35,31,32); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-128, -96.05)" d="M 192.440223 144.644612 L 224.220111 144.644612 L 224.220111 68.3393384 L 188.415329 32.5345562 L 165.943007 55.0068785 L 192.440223 81.5040943 L 192.440223 144.644612 L 192.440223 144.644612 Z M 224.303963 160.576482 L 178.017688 160.576482 L 113.451687 160.576482 L 86.954471 134.079266 L 98.1906322 122.843105 L 120.075991 144.728464 L 165.104487 144.728464 L 120.746806 100.286931 L 132.06682 88.9669178 L 176.4245 133.324599 L 176.4245 88.2961022 L 154.622994 66.4945955 L 165.775303 55.3422863 L 110.684573 0 L 56.3485097 0 L 56.3485097 0 L 0 0 L 31.6960367 31.6960367 L 31.6960367 31.7798886 L 31.8637406 31.7798886 L 97.4359646 31.7798886 L 120.662954 55.0068785 L 86.7029152 88.9669178 L 63.4759253 65.7399279 L 63.4759253 47.7117589 L 31.6960367 47.7117589 L 31.6960367 78.9046839 L 86.7029152 133.911562 L 64.3144448 156.300033 L 100.119227 192.104815 L 154.45529 192.104815 L 256 192.104815 L 256 192.104815 L 224.303963 160.576482 L 224.303963 160.576482 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 96 110.65)" style="" id="3d8b3303-fe9c-4722-abe7-e1aa58937dd5"  >
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-196.64" y="25.13" >Websockets</tspan></text>
+</g>
+</svg>
