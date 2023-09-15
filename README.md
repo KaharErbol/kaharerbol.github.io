@@ -45,8 +45,9 @@ AtArba is an online store that enables users to sell car parts. The Web App is b
 - Authentication and authorization features are implemented on FastAPI for secure user access and data protection.
 
 Tech-Stack: Python, JavaScript, FastAPI, React, React Redux Toolkit, HTML/CSS, Docker
-Demo: [Demo](https://www.youtube.com/watch?v=WEjt86wNQ1g&t=3s)
-Repo: [GitLab Repo](https://gitlab.com/kaharerbol/atarba/-/tree/kahar?ref_type=heads)
+
+[Demo](https://www.youtube.com/watch?v=WEjt86wNQ1g&t=3s)
+[GitLab Repo](https://gitlab.com/kaharerbol/atarba/-/tree/kahar?ref_type=heads)
 
 
 ### CarSerive App - Apoointment Tool - Solo Full Stack Project
