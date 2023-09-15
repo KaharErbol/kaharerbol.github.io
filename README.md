@@ -16,18 +16,18 @@ I am Kahar Erbol. I have previously worked at Tash & Music Archive as a product 
 ![Python](/assets/img/icons8-python.svg)
 ![JavaScript](/assets/img/icons8-javascript.svg)
 ![Java](/assets/img/icons8-java.svg)
-![C#](/assets/img/icons8-c.svg)
 ![C++](/assets/img/icons8-c++.svg)
 ![react](/assets/img/icons8-react.svg)
 ![django](/assets/img/icons8-django.svg)
 ![fastapi](/assets/img/fastapi.png)
 ![html](/assets/img/icons8-html.svg)
 ![css](/assets/img/icons8-css.svg)
+![postgresql](/assets/img/icons8-postgresql.svg)
+![mongodb](/assets/img/icons8-mongodb.svg)
+![C#](/assets/img/icons8-c.svg)
 ![docker](/assets/img/docker.svg)
 **Websockets**
 **RabbitMQ**
-![postgresql](/assets/img/icons8-postgresql.svg)
-![mongodb](/assets/img/icons8-mongodb.svg)
 
 
 
