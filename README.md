@@ -25,7 +25,7 @@ I am Kahar Erbol. I have previously worked at Tash & Music Archive as a product 
 ![css](/assets/img/icons8-css.svg)
 ![docker](/assets/img/icons8-docker.svg)
 ![websockets](/assets/img/websocket.png)
-![rabbitmq](/assets/img/RabbitMQ.png | width=96 height=96)
+<img src="/assets/img/RabbitMQ.ong" width="96" />
 ![postgresql](/assets/img/icons8-postgresql.svg)
 ![mongodb](/assets/img/icons8-mongodb.svg)
 
