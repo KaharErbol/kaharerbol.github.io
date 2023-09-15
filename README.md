@@ -46,7 +46,7 @@ AtArba is an online store that enables users to sell car parts. The Web App is b
 
 Tech-Stack: Python, JavaScript, FastAPI, React, React Redux Toolkit, HTML/CSS, Docker
 
-[Demo](https://www.youtube.com/watch?v=WEjt86wNQ1g&t=3s)
+[Demo](https://www.youtube.com/watch?v=WEjt86wNQ1g&t=3s) |
 [GitLab Repo](https://gitlab.com/kaharerbol/atarba/-/tree/kahar?ref_type=heads)
 
 
