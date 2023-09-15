@@ -12,6 +12,7 @@
 ## Abot Me
 I am Kahar Erbol. I have previously worked at Tash & Music Archive as a product manager, focusing on building databases and archives for music recordings. Additionally, I had the opportunity to work at Tesla as a Senior Product Specialist, where I was involved in the initial launch and sales of Model 3 in China. While balancing my responsibilities as a father, I am also a Software Engineer. I have a keen interest in creating innovative products and tackling complex problems using scalable approaches.
 
+**Certificate** : Lyft Back-End Engineering Virtual Experience Program
 ---
 
 ## Tech Stacks
@@ -44,7 +45,7 @@ AtArba is an online store that enables users to sell car parts. The Web App is b
 - A scalable database is built using PostgreSQL for reliable data storage and retrieval. 
 - Authentication and authorization features are implemented on FastAPI for secure user access and data protection.
 
-Tech-Stack: Python, JavaScript, FastAPI, React, React Redux Toolkit, HTML/CSS, Docker
+Python, JavaScript, FastAPI, React, React Redux Toolkit, HTML/CSS, Docker
 
 [Demo](https://www.youtube.com/watch?v=WEjt86wNQ1g&t=3s) |
 [Repo](https://github.com/KaharErbol/AtArba/tree/kahar)
@@ -54,3 +55,49 @@ Tech-Stack: Python, JavaScript, FastAPI, React, React Redux Toolkit, HTML/CSS, D
 - Built a single page application using React components and React Hooks to manages states, did data transfer between
 microservices with RabbitMQ poller.
 - Developed dynamic backend using Django and Restful APIs to integrate microservices
+
+Python, Django, JavaScript, React, RabbitMQ, HTML/CSS
+
+[Repo](https://github.com/KaharErbol/car-service)
+
+
+### Conference Management App - Solo Full Stack Project
+- Boosted system scalability and maintainability by developing a Django-based back-end API
+- Optimised system modularity through microservices and breaking down monolithic models
+- Strengthened web application consistency and portability with Docker containerization
+- Elevated user experience through dynamic front-end interfaces created with JavaScript DOM manipulation
+- Improved website design and responsiveness using Bootstrap framework
+- Secured microservices with JWTs for user authentication, ensuring data confidentiality and integrity
+
+Python, Django, JavaScript, Rest API, HTML/CSS
+
+[Repo](https://github.com/KaharErbol/conference-management)
+
+---
+
+## Professional Experience
+### Tesla | Senior Product Specialist 2017 - 2019
+- Ranked in the Top 5 for sales during the inaugural launch of Model 3 in China
+- Enhanced decision-making by utilising Python to analyse data, including customer traffic and sales performance
+- Optimised sales strategies and improved performance by proactively monitoring KPIs
+- Maximised conversions and sales by leveraging customer data analysis to identify preferences, and opportunities
+- Enhanced customer satisfaction and increased sales through the introduction of data driven time management
+- Mentored/train new team members, facilitating integration, supporting professional growth
+
+### Tash Music & Archive | Product Manager 2015 - 2020
+- Created database for China music website, providing direct access to rare music recordings for users
+- Captured interviews with Kazakh musicians in local communities, transcribed and annotated the recordings
+- Transformed multi-faceted audio data from private collections into organised metadata
+- Preserved important cultural heritage and oral traditions by creating logs, transcribing soundtracks
+
+---
+
+## Education
+**UCLA Extension** | Finance, Application Programming 2022 
+**China University of Petroleum** | Prospecting Technology and Engineering (Bachelor of Science) 2014
+
+---
+
+## Languages
+English | Chinese (Mandarin) | Kazakh | Uyghur
+
