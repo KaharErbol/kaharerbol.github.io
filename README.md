@@ -29,7 +29,7 @@ I am Kahar Erbol. I have previously worked at Tash & Music Archive as a product 
 ![mongodb](/assets/img/icons8-mongodb.svg)
 ![docker](/assets/img/docker.svg)
 ![rabbotMQ](/assets/img/rabbitmq-svgrepo-com.svg)
-![Websockets](/assets/img/websocket-svgrepo-com.svg)
+![Websockets](/assets/img/Mediamodifier-Design-new.svg)
 
 ---
 
