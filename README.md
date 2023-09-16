@@ -17,7 +17,7 @@ Certificate : *Lyft Back-End Engineering Virtual Experience Program*
 ---
 
 ## Tech Stacks
-![Python](assets/img/icons8-python.svg)
+![Python](/assets/img/icons8-python.svg)
 ![JavaScript](/assets/img/icons8-javascript.svg)
 ![Java](/assets/img/icons8-java.svg)
 ![C#](/assets/img/icons8-c.svg)
