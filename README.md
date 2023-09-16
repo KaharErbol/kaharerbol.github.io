@@ -38,8 +38,6 @@ Certificate : *Lyft Back-End Engineering Virtual Experience Program*
 ## Projects
 
 ### AtArba - Online Store - Solo Full Stack Project
-AtArba is an online store that enables users to sell car parts. The Web App is built from scratch, allowing users to easily set up their accounts and list their items. At its MVP stage, buyers can add their preferred items to the shopping cart, and the data is stored in local storage. All items and user sign-up information are stored in a PostgreSQL database, with endpoints built using FastAPI for increased flexibility. The front-end is constructed with React and Redux Toolkit, where all states are managed in a centralized location. Most of the CSS styling is self-written to allow for better project customization. The back-end authentication is customized from FastAPI documentation, while the front-end authentication is implemented using Redux Toolkit CreateApi hooks.
-
 - The project includes a non-opinionated backend built using FastAPI for fast and efficient API development. 
 - State management is implemented using Redux for efficient data flow and caching. 
 - GitLab is used for version control and continuous integration/delivery (CI/CD) pipeline.
