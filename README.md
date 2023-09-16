@@ -92,7 +92,8 @@ Python, Django, JavaScript, Rest API, HTML/CSS
 ---
 
 ## Education
-*UCLA Extension* | Finance, Application Programming 2022 
+*UCLA Extension* | Finance, Application Programming 2022
+
 *China University of Petroleum* | Prospecting Technology and Engineering (Bachelor of Science) 2014
 
 ---
