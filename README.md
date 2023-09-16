@@ -50,10 +50,10 @@ Python, JavaScript, FastAPI, React, React Redux Toolkit, HTML/CSS, Docker
 [Repo](https://github.com/KaharErbol/AtArba/tree/kahar)
 
 
-### CarSerive App - Apoointment Tool - Solo Full Stack Project
-- Built a single page application using React components and React Hooks to manages states, did data transfer between
-microservices with RabbitMQ poller.
-- Developed dynamic backend using Django and Restful APIs to integrate microservices
+### CarSerive App - Appointment Tool - Solo Full Stack Project
+- Created a single-page application utilizing React components and React Hooks to efficiently manage states.
+- Established seamless data transfer between microservices through the use of a RabbitMQ poller.
+- Engineered a dynamic backend using Django and RESTful APIs to seamlessly integrate microservices.
 
 Python, Django, JavaScript, React, RabbitMQ, HTML/CSS
 
