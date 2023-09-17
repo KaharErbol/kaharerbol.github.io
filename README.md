@@ -1,6 +1,6 @@
 # Kahar Erbol
 
-*[**About**](#About Me) | [**Projects**](## Projects)
+[**About**](#AboutMe) | [**Projects**](#Projects) | [**Projects**](#stack)
   
 ---
 
@@ -11,6 +11,7 @@
 
 ---
 
+<a name="AboutMe"></a>
 ## Abot Me
 I am Kahar Erbol. I have previously worked at Tash & Music Archive as a product manager, focusing on building databases and archives for music recordings. Additionally, I had the opportunity to work at Tesla as a Senior Product Specialist, where I was involved in the initial launch and sales of Model 3 in China. While balancing my responsibilities as a father, I am also a Software Engineer. I have a keen interest in creating innovative products and tackling complex problems using scalable approaches.
 
@@ -18,6 +19,7 @@ Certificate : *Lyft Back-End Engineering Virtual Experience Program*
 
 ---
 
+<a name="stack"></a>
 ## Tech Stacks
 ![Python](/assets/img/icons8-python.svg)
 ![JavaScript](/assets/img/icons8-javascript.svg)
@@ -36,7 +38,7 @@ Certificate : *Lyft Back-End Engineering Virtual Experience Program*
 ![Websockets](/assets/img/websocket-svgrepo-com.svg)
 
 ---
-
+<a name="Projects"></a>
 ## Projects
 
 ### AtArba - Online Store - Solo Full Stack Project
