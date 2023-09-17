@@ -22,7 +22,7 @@ Certificate : *Lyft Back-End Engineering Virtual Experience Program*
 ![C++](/assets/img/icons8-c++.svg)
 ![react](/assets/img/icons8-react.svg)
 ![django](/assets/img/icons8-django.svg)
-![fastapi](/assets/img/fastapi.png)
+![fastapi](/assets/img/fastapi_50.png)
 ![html](/assets/img/icons8-html.svg)
 ![css](/assets/img/icons8-css.svg)
 ![postgresql](/assets/img/icons8-postgresql.svg)
