@@ -1,6 +1,6 @@
 # Kahar Erbol
 
-[**About**](## About Me) | [**Projects**](## Projects)
+*[**About**](#About Me) | [**Projects**](## Projects)
   
 ---
 
