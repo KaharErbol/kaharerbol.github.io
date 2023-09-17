@@ -73,7 +73,7 @@ Python, Django, JavaScript, Rest API, HTML/CSS
 ---
 
 ## Professional Experience
-### KidzToPros | Python Instructor Sep 2023 - Current
+### KidzToPros | Python Instructor | Sep 2023 - Current
 - Designed and delivered comprehensive Python courses for beginners and advanced learners
 - Taught Python fundamentals, including data types, loops, functions, and object-oriented programming (OOP) concepts.
 - Conducted in-depth sessions on Python libraries and frameworks, such as NumPy, pandas, Django, and Flask.
@@ -82,7 +82,7 @@ Python, Django, JavaScript, Rest API, HTML/CSS
 - Facilitated workshops and coding challenges to reinforce Python skills and problem-solving abilities.
 - Fostered a collaborative learning environment, encouraging peer-to-peer knowledge sharing and teamwork.
 
-### Tesla | Senior Product Specialist 2017 - 2019
+### Tesla | Senior Product Specialist | 2017 - 2019
 - Ranked in the Top 5 for sales during the inaugural launch of Model 3 in China
 - Enhanced decision-making by utilising Python to analyse data, including customer traffic and sales performance
 - Optimised sales strategies and improved performance by proactively monitoring KPIs
@@ -90,7 +90,7 @@ Python, Django, JavaScript, Rest API, HTML/CSS
 - Enhanced customer satisfaction and increased sales through the introduction of data driven time management
 - Mentored/train new team members, facilitating integration, supporting professional growth
 
-### Tash Music & Archive | Product Manager 2015 - 2020
+### Tash Music & Archive | Product Manager | 2015 - 2020
 - Created database for China music website, providing direct access to rare music recordings for users
 - Captured interviews with Kazakh musicians in local communities, transcribed and annotated the recordings
 - Transformed multi-faceted audio data from private collections into organised metadata
@@ -99,9 +99,9 @@ Python, Django, JavaScript, Rest API, HTML/CSS
 ---
 
 ## Education
-*UCLA Extension* | Finance, Application Programming 2022
+*UCLA Extension* | Finance, Application Programming | 2020 - 2022
 
-*China University of Petroleum* | Prospecting Technology and Engineering (Bachelor of Science) 2014
+*China University of Petroleum* | Prospecting Technology and Engineering (Bachelor of Science) | 2010 - 2014
 
 ---
 
