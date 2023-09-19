@@ -1,6 +1,5 @@
 # Kahar Erbol
 
-## Social Media
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkahar_erbol&style=social)](https://twitter.com/kahar_erbol)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kahar-erbol-85029a92/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/KaharErbol)
