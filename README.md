@@ -72,15 +72,6 @@ Python, Django, JavaScript, Rest API, HTML/CSS
 ---
 
 ## Professional Experience
-### KidzToPros | Python Instructor | Sep 2023 - Current
-- Designed and delivered comprehensive Python courses for beginners and advanced learners
-- Taught Python fundamentals, including data types, loops, functions, and object-oriented programming (OOP) concepts.
-- Conducted in-depth sessions on Python libraries and frameworks, such as NumPy, pandas, Django, and Flask.
-- Collaborated with students on real-world projects, providing guidance on code structure, best practices, and debugging.
-- Created and maintained a repository of Python code examples and exercises for continuous practice and reference.
-- Facilitated workshops and coding challenges to reinforce Python skills and problem-solving abilities.
-- Fostered a collaborative learning environment, encouraging peer-to-peer knowledge sharing and teamwork.
-
 ### Tesla | Senior Product Specialist | 2017 - 2019
 - Ranked in the Top 5 for sales during the inaugural launch of Model 3 in China
 - Enhanced decision-making by utilising Python to analyse data, including customer traffic and sales performance
